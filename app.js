@@ -3,6 +3,7 @@ let total = 0;
 let balance = 0;
 let qnApple = 0;
 let prApple = 7;
+let prMango = 2;
 
 function onLoad() {
   console.log("---", document.getElementById("total"));
